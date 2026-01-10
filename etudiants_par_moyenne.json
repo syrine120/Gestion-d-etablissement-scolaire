@@ -1,0 +1,18 @@
+[
+    {
+        "filiere": "iir",
+        "id": 2,
+        "moyenne": 19.0,
+        "niveau": "3eme annee",
+        "nom": "cherouite",
+        "prenom": "soumaya"
+    },
+    {
+        "filiere": "iir",
+        "id": 3,
+        "moyenne": 18.0,
+        "niveau": "3eme annee",
+        "nom": "el khamlichi",
+        "prenom": "sara"
+    }
+]

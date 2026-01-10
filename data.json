@@ -1,0 +1,75 @@
+{
+    "etudiants": [
+        {
+            "filiere": "iir",
+            "id": 3,
+            "niveau": "3eme annee",
+            "nom": "el khamlichi",
+            "prenom": "sara"
+        },
+        {
+            "filiere": "iir",
+            "id": 2,
+            "niveau": "3eme annee",
+            "nom": "cherouite",
+            "prenom": "soumaya"
+        }
+    ],
+    "groupes": [
+        {
+            "etudiants": [
+                {
+                    "filiere": "iir",
+                    "id": 3,
+                    "niveau": "3eme annee",
+                    "nom": "el khamlichi",
+                    "prenom": "sara"
+                },
+                {
+                    "filiere": "iir",
+                    "id": 2,
+                    "niveau": "3eme annee",
+                    "nom": "cherouite",
+                    "prenom": "soumaya"
+                }
+            ],
+            "filiere": "",
+            "idGroupe": 5,
+            "nomGroupe": "groupe 5"
+        }
+    ],
+    "matieres": [
+        {
+            "code": "3",
+            "coefficient": 2,
+            "idProfesseur": 5,
+            "nom": "cpp"
+        }
+    ],
+    "notes": [
+        {
+            "codeCours": "3",
+            "id": 6,
+            "idEtudiant": 2,
+            "nomEtudiant": "cherouite",
+            "typeExam": "DS",
+            "valeur": 19.0
+        },
+        {
+            "codeCours": "3",
+            "id": 7,
+            "idEtudiant": 3,
+            "nomEtudiant": "el khamlichi",
+            "typeExam": "DS",
+            "valeur": 18.0
+        }
+    ],
+    "professeurs": [
+        {
+            "id": 5,
+            "nom": "jdidou",
+            "prenom": "youssef"
+        }
+    ],
+    "releves": []
+}
